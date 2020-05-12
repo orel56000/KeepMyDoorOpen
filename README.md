@@ -1,5 +1,5 @@
 # KeepMyDoorOpen
-A FiveM server-side script that keeps your door open if you hold down the F key while exiting.
+A FiveM client-side script that keeps your door open if you hold down the F key while exiting.
 
 /-/ INSTALLATION \\-\
 1. Create a folder named KeepMyDoorOpen inside your server's resources folder.
